@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "size": 5370838,
-  "sha256": "58ca9f46d1927ddc60530c42bb1d283e624aff50ca3312325b113c091c483b69",
+  "versionCode": 5,
+  "versionName": "0.5",
+  "size": 5388486,
+  "sha256": "a4b43d683bd9da5f5c10569a4f83909839ef888dffb0caf5aa8b14b3ab5c788c",
   "minSdk": 28,
-  "notes": "Keeps directory navigation responsive after syncing, opens saved groups directly from the sync summary, and simplifies Accounts & sync into two account dialogs."
+  "notes": "Choose which member fields to display, copy and save, with CSV and TXT export from each group's member dialog."
 }
