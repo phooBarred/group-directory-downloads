@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.3",
+  "size": 5356682,
+  "sha256": "a9ca545487e593f5e726909b4cff23084856240a36bf0b3536142f34a3287c91",
+  "minSdk": 28,
+  "notes": "Fixes the group-access check that could time out after WhatsApp approved a link. Adds clearer phone entry, connection progress and in-app updates."
+}
